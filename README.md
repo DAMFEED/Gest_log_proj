@@ -1,10 +1,13 @@
-# Comment mettre ces script sur le dépot Github
-pour commencer il faut télécharger Github a l'aide du lien suivant et de le prendre pour votre système d'explotation : https://git-scm.com/
+# **Comment mettre ces scripts sur le dépôt GitHub**
 
-une fois fait il clonné le dépot a l'aide de la commande suivante : git clone <url du dépot>
+## 1. **Télécharger Git**
+Pour commencer, téléchargez et installez Git en choisissant la version adaptée à votre système d'exploitation à partir du lien suivant :
 
-puis mettez vos script en plus de ce présent dossier puis utiliser la commande : git add .
+➡️ [**Git SCM Official Website**](https://git-scm.com/)
 
-puis pour expliquer le pourquoi de ce changement ou simplement décrire votre action sur le script utiliser la commande suivante : git commit -m 'exemple'
+---
 
-pour finir pour envoyer votre/vos script utiliser la commande : '''bash git push -u origin main
+## 2. **Cloner le dépôt GitHub**
+Une fois Git installé, ouvrez un terminal ou une invite de commandes, puis utilisez la commande suivante pour cloner le dépôt :
+```bash
+git clone <url_du_depot>
