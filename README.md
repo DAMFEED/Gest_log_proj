@@ -6,13 +6,7 @@
 
 ### **Les étapes :**
 
-1. **Créer un dépôt GitHub:**
-   * Connecte-toi à ton compte GitHub.
-   * Clique sur le bouton "New repository".
-   * Donne un nom à ton dépôt, ajoute une description (optionnel) et choisis si tu veux qu'il soit public ou privé.
-   * Clique sur "Create repository".
-
-2. **Cloner le dépôt:**
+1. **Cloner le dépôt:**
    * Ouvre ton terminal ou invite de commandes.
    * Navigue jusqu'au répertoire où tu veux placer ton projet.
    * Exécute la commande suivante en remplaçant `<url_du_depot>` par l'URL de ton dépôt :
@@ -20,17 +14,17 @@
      git clone <url_du_depot>
      ```
 
-3. **Ajouter tes scripts:**
+2. **Ajouter tes scripts:**
    * Copie tes scripts dans le dossier que tu viens de cloner.
 
-4. **Suivre les modifications:**
+3. **Suivre les modifications:**
    * Dans ton terminal, à l'intérieur du dossier de ton projet :
      ```bash
      git add .
      ```
      Cela ajoute tous les nouveaux fichiers ou modifications à la liste des fichiers qui seront inclus dans ton prochain commit.
 
-5. **Créer un commit:**
+4. **Créer un commit:**
    * Enregistre tes modifications avec un message expliquant ce que tu as fait :
      ```bash
      git commit -m "Ton message ici"
@@ -40,7 +34,7 @@
      git commit -m "Ajout des scripts Python"
      ```
 
-6. **Envoyer les modifications sur GitHub:**
+5. **Envoyer les modifications sur GitHub:**
    * Pour envoyer tes changements sur GitHub :
      ```bash
      git push -u origin main
@@ -104,5 +98,3 @@
 ```
 
 **N'oublie pas d'adapter le lien de l'image à l'image que tu auras choisie.**
-
-peut me 
