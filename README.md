@@ -7,4 +7,4 @@ puis mettez vos script en plus de ce présent dossier puis utiliser la commande 
 
 puis pour expliquer le pourquoi de ce changement ou simplement décrire votre action sur le script utiliser la commande suivante : git commit -m 'exemple'
 
-pour finir pour envoyer votre/vos script utiliser la commande : '''git push -u origin main'''
+pour finir pour envoyer votre/vos script utiliser la commande : '''bash git push -u origin main
