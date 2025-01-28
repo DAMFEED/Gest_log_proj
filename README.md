@@ -3,4 +3,8 @@ pour commencer il faut télécharger Github a l'aide du lien suivant et de le pr
 
 une fois fait il clonné le dépot a l'aide de la commande suivante : git clone <url du dépot>
 
-puis mettez vos script en plus de ce présent dossier puis utiliser la commande : 
+puis mettez vos script en plus de ce présent dossier puis utiliser la commande : git add .
+
+puis pour expliquer le pourquoi de ce changement ou simplement décrire votre action sur le script utiliser la commande suivante : git commit -m 'exemple'
+
+pour finir pour envoyer votre/vos script utiliser la commande : git push -u origin main
