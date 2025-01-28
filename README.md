@@ -84,17 +84,3 @@
 * **GitHub Actions:** Automatiser des tâches comme la construction, les tests et le déploiement.
 * **GitHub Pages:** Héberger des sites web statiques directement depuis ton dépôt.
 * **GitHub Issues:** Suivre les problèmes et les demandes de fonctionnalités.
-
-**Tu as d'autres questions ? N'hésite pas à demander !**
-
-**[Image illustrative de GitHub avec les commandes]**
-
-**Note:** Tu peux personnaliser ce Markdown en ajoutant des images, des liens vers la documentation officielle de GitHub, ou en créant des sections plus détaillées pour les concepts que tu souhaites approfondir. 
-
-**Pour créer une image illustrative, tu peux utiliser des outils en ligne comme Draw.io ou des logiciels de création d'images comme Canva. Puis, tu peux l'héberger sur une plateforme comme Imgur et ajouter le lien à ton fichier Markdown en utilisant la syntaxe suivante :**
-
-```markdown
-![Image de GitHub](https://i.imgur.com/exemple.png)
-```
-
-**N'oublie pas d'adapter le lien de l'image à l'image que tu auras choisie.**
