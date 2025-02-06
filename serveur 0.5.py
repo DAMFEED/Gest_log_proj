@@ -5,8 +5,8 @@ import json
 
 app = Flask(__name__)
 
-Mot_de_passe = "tsiris"
-Mot_de_passe_admin = "sirist"
+Mot_de_passe = "mdp"
+Mot_de_passe_admin = "mdpa"
 
 
 def inserer_donnees(ip, level, date):
