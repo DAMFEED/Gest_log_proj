@@ -7,8 +7,8 @@ import json
 app = Flask(__name__)
 
 # Définition des mots de passe pour sécuriser les endpoints
-Mot_de_passe = "tsiris"
-Mot_de_passe_admin = "sirist"
+Mot_de_passe = "mdp"
+Mot_de_passe_admin = "mdpa"
 
 # Fonction pour insérer des logs dans la base de données MySQL
 def inserer_donnees(ip, level, date):
