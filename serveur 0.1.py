@@ -5,8 +5,8 @@ import json  # Pour le traitement du format JSON
 
 app = Flask(__name__)
 
-Mot_de_passe = "tsiris"  # Mot de passe utilisateur (à modifier)
-Mot_de_passe_admin = "sirist"  # Mot de passe administrateur (à modifier)
+Mot_de_passe = "mdp"  # Mot de passe utilisateur (à modifier)
+Mot_de_passe_admin = "mdpa"  # Mot de passe administrateur (à modifier)
 
 
 def inserer_donnees(ip, level, date):
